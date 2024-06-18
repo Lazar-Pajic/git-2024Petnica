@@ -1,4 +1,4 @@
 print("hello")
-print("Izmena")
-nova grana
+print("Izmena nova grana")
+ovo je master
 
