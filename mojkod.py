@@ -1,4 +1,4 @@
 print("hello")
-print("Izmena")
-nova grana
+print("Izmen )nova grana")
+ovo je izmena na grani
 
